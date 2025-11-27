@@ -1,0 +1,3210 @@
+[
+	{
+		"type": "series",
+		"uuid": "857327d4-045c-5cc5-e053-09f0900a2b1a",
+		"code": "Deel I",
+		"title": "Heren Zeventien en kamer Amsterdam",
+		"dates": [],
+		"parents": []
+	},
+	{
+		"type": "subseries",
+		"uuid": "69797ccd-e893-0559-e053-09f0900accef",
+		"code": "Deel I/E",
+		"title": "INGEKOMEN STUKKEN UIT INDIË",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-42c4-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.2",
+		"title": "Kopie-resoluties van gouverneur-generaal en  raden",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-42c5-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-resoluties van gouverneur-generaal en raden in de serie overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam, 1610-1637",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-42c4-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-2700-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.3",
+		"title": "Kopie-dagregisters van Batavia",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-2702-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-dagregisters, gehouden in het kasteel Batavia, in de serie overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam",
+		"dates": [
+			{
+				"from": "1617",
+				"until": "1636"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2700-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-2c66-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.4",
+		"title": "Kopie-uitgaande stukken van gouverneur-generaal en  raden",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-2c68-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-uitgaande stukken van gouverneur-generaal en raden in de serie overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam",
+		"dates": [
+			{
+				"from": "1614",
+				"until": "1634"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2c66-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-2773-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.5",
+		"title": "Overgekomen brieven en papieren",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-2775-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.5.a",
+		"title": "Overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-2776-11bf-e053-09f0900a4541",
+		"code": "1053-1055",
+		"title": "Overgekomen brieven en papieren uit Indië aan de   Heren XVII en de kamer Amsterdam. Met inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1607",
+				"until": "1613"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-277b-11bf-e053-09f0900a4541",
+		"code": "1056-3986",
+		"title": "Overgekomen brieven en papieren uit Indië aan de   Heren XVII en de kamer Amsterdam",
+		"dates": [
+			{
+				"from": "1614",
+				"until": "1794"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"id": "1171A-1171B",
+		"uuid": "76ad8666-87a5-531e-e053-09f0900a10c6",
+		"title": "1650. MMM. Eerste boek, 1650",
+		"dates": [
+			{
+				"from": "1650",
+				"until": "1650"
+			}
+		],
+		"textUrl": "https://objectstore.surf.nl/87435b768620494e8e911c83d1997f24:globalise-data/NL-HaNA/1.04.02/1171A-1171B/text.json",
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541",
+			"8b238f3e-277b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-352f-11bf-e053-09f0900a4541",
+		"code": "1457A-1457C",
+		"title": "1690. DDDDD. Eerste boek: Batavia, eerste  deel 1690",
+		"dates": [
+			{
+				"from": "1690",
+				"until": "1690"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541",
+			"8b238f3e-277b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-2e53-11bf-e053-09f0900a4541",
+		"code": "1604A-1604C",
+		"title": "1699 NNNNN. Vijfde boek: Ceylon, eerste deel. 3  banden 1699",
+		"dates": [
+			{
+				"from": "1699",
+				"until": "1699"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541",
+			"8b238f3e-277b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-3208-11bf-e053-09f0900a4541",
+		"code": "1615A-1615C",
+		"title": "1700 OOOOO. Derde boek: Ceylon, eerste deel. 3 banden 1700",
+		"dates": [
+			{
+				"from": "1700",
+				"until": "1700"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541",
+			"8b238f3e-277b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"id": "2352A-2352E",
+		"uuid": "76ad8666-879e-531e-e053-09f0900a10c6",
+		"title": "1736. BBBBBBB. Achtentwintigste boek: Batavia's ingekomen brievenboek, deel X: Ceylon, 1736",
+		"dates": [
+			{
+				"from": "1736",
+				"until": "1736"
+			}
+		],
+		"textUrl": "https://objectstore.surf.nl/87435b768620494e8e911c83d1997f24:globalise-data/NL-HaNA/1.04.02/2352A-2352E/text.json",
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-2775-11bf-e053-09f0900a4541",
+			"8b238f3e-277b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-7c65-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.5.b",
+		"title": "Overgekomen brieven en papieren uit Kaap de Goede Hoop aan de Heren XVII en de kamer Amsterdam",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-7c66-11bf-e053-09f0900a4541",
+		"code": "3988-4360",
+		"title": "Overgekomen brieven en papieren uit Kaap de Goede   Hoop en Mauritius aan de Heren XVII en de kamer Amsterdam. Gedeeltelijk met   inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1651",
+				"until": "1794"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-7c65-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-56dc-11bf-e053-09f0900a4541",
+		"code": "4361-4366",
+		"title": "Verslag van de commissarissen-generaal over Kaap   de Goede Hoop. Met bijlagen en inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1793",
+				"until": "1793"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-7c65-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-56ed-11bf-e053-09f0900a4541",
+		"code": "4367-4373",
+		"title": "Overgekomen brieven en papieren ontvangen uit Kaap   de Goede Hoop betreffende de expeditie naar Rio Delagoa en de vestiging   aldaar",
+		"dates": [
+			{
+				"from": "1721",
+				"until": "1731"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-7c65-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-8aed-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.5.c",
+		"title": "Overgekomen brieven en papieren uit China aan de Heren XVII, de kamer Amsterdam en de Chinase commissie",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-8af2-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Overgekomen brieven en papieren uit China   betreffende de factorij in Kanton aan de Heren XVII, de kamer Amsterdam en de   Chinase commissie. Met inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1794"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-8aed-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-a61d-11bf-e053-09f0900a4541",
+		"code": "Deel I/E.5.d",
+		"title": "Inhoudsopgaven op de overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam",
+		"dates": [],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-a61e-11bf-e053-09f0900a4541",
+		"code": "4448-4454",
+		"title": "Inhoudsopgaven op de overgekomen brieven en   papieren uit Indië aan de Heren XVII en de kamer Amsterdam",
+		"dates": [
+			{
+				"from": "1690",
+				"until": "1796"
+			}
+		],
+		"parents": [
+			"857327d4-045c-5cc5-e053-09f0900a2b1a",
+			"69797ccd-e893-0559-e053-09f0900accef",
+			"8b238f3e-2773-11bf-e053-09f0900a4541",
+			"8b238f3e-a61d-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "series",
+		"uuid": "8b238f3e-c8cd-11bf-e053-09f0900a4541",
+		"code": "Deel II",
+		"title": "Kamer Zeeland",
+		"dates": [],
+		"parents": []
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-ec20-11bf-e053-09f0900a4541",
+		"code": "Deel II/E",
+		"title": "INGEKOMEN STUKKEN VAN GOUVERNEUR-GENERAAL EN RADEN BIJ   DE HEREN XVII EN DE KAMER ZEELAND",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-ec23-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.1",
+		"title": "Missiven",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-ec27-11bf-e053-09f0900a4541",
+		"code": "7528-7595",
+		"title": "Missiven van gouverneur-generaal en raden en (bij uitzondering) van andere colleges in Batavia aan de Heren XVII of de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1684",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-ec23-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-fb4b-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.2",
+		"title": "Kopie-resoluties en -notulen van gouverneur-generaal  en raden",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fb4f-11bf-e053-09f0900a4541",
+		"code": "7601-7603",
+		"title": "Kopie-secrete resoluties van gouverneur-generaal en raden",
+		"dates": [
+			{
+				"from": "1732",
+				"until": "1784"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fb4b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fb59-11bf-e053-09f0900a4541",
+		"code": "7604-7608",
+		"title": "Kopie-notulen van gouverneur-generaal en raden betreffende de buitenkantoren. Met inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1754",
+				"until": "1786"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fb4b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-0098-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.3",
+		"title": "Kopie-dagregisters van Batavia",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0099-11bf-e053-09f0900a4541",
+		"code": "7610-7617",
+		"title": "Kopie-dagregisters, gehouden in het kasteel Batavia",
+		"dates": [
+			{
+				"from": "1647",
+				"until": "1766"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3f-0098-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-041f-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.4",
+		"title": "Kopie-uitgaande stukken van gouverneur-generaal en  raden",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0420-11bf-e053-09f0900a4541",
+		"code": "7618-7647",
+		"title": "Kopieboeken van uitgaande missiven en instructies van gouverneur-generaal en raden aan de buitenkantoren. Met inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1683",
+				"until": "1788"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3f-041f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fb86-11bf-e053-09f0900a4541",
+		"code": "7648-7655, ---",
+		"title": "Kopieboeken van uitgaande secrete missiven van gouverneur-generaal en raden aan de buitenkantoren. Met inhoudsopgaven",
+		"dates": [
+			{
+				"from": "1755",
+				"until": "1789"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3f-041f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-fe01-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5",
+		"title": "Kopie-missiven en -rapporten ingekomen bij  gouverneur-generaal en raden van de kantoren in Indië",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-fe04-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.01",
+		"title": "Batavia en omstreken (inclusief Krawang, Tangerang en Tanjungpura)",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fe05-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Batavia en omstreken. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-fe04-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-0a7d-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.02",
+		"title": "Bantam",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0a7e-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij gouverneur-generaal en raden uit Bantam. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-0a7d-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "93b7f423-2168-48b1-a5e9-93a52300972d",
+		"code": "8261, 8305",
+		"title": "Kopie - secrete missiven en rapporten ingekomen bij gouverneur - generaal en raden uit Bantam",
+		"dates": [
+			{
+				"from": "1782",
+				"until": "1783"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-0a7d-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-0b0e-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.03",
+		"title": "Cheribon",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0b0f-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij gouverneur-generaal en raden uit Cheribon. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-0b0e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-f09a-11bf-e053-09f0900a4541",
+		"code": "7771-7772",
+		"title": "Rekeningen van Cheribon",
+		"dates": [
+			{
+				"from": "1789",
+				"until": "1791"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-0b0e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-f0a0-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.04",
+		"title": "Java's Oostkust",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-f0a1-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Java's Oostkust. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-f0a0-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8798-531e-e053-09f0900a10c6",
+		"code": "7872",
+		"title": "1762-1764,",
+		"dates": [
+			{
+				"from": "1762",
+				"until": "1764"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-f0a0-11bf-e053-09f0900a4541",
+			"8b238f3e-f0a1-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fc92-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Java's Oostkust. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-f0a0-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-fcb1-11bf-e053-09f0900a4541",
+		"code": "7874, 7897-7902",
+		"title": "Kopie-lijsten van in Java's Oostkust aangekomen en   uitgevaren schepen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-f0a0-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-ff62-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.05",
+		"title": "Ambon",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-ff63-11bf-e053-09f0900a4541",
+		"code": "7903-7947, 8522",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Ambon. Met bijlagen",
+		"dates": [
+			{
+				"from": "1682",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-ff62-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0331-11bf-e053-09f0900a4541",
+		"code": "7948-7952",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Ambon. Met bijlagen",
+		"dates": [
+			{
+				"from": "1770",
+				"until": "1789"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-ff62-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-0648-11bf-e053-09f0900a4541",
+		"code": "7953-7962",
+		"title": "Kopie-lijsten van de inwoners en kruidnagelbomen   op Ambon",
+		"dates": [
+			{
+				"from": "1686",
+				"until": "1734"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-ff62-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-065e-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.06",
+		"title": "Banda",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-065f-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Banda. Met bijlagen",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-065e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-e001-11bf-e053-09f0900a4541",
+		"code": "8035-8047",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven   van Banda. Gedeeltelijk met bijlagen",
+		"dates": [
+			{
+				"from": "1680",
+				"until": "1772"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-065e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-e327-11bf-e053-09f0900a4541",
+		"code": "8041, 8049-8056",
+		"title": "Kopie-dagregisters van Banda. Met   bijlagen",
+		"dates": [
+			{
+				"from": "1677",
+				"until": "1696"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-065e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-e314-11bf-e053-09f0900a4541",
+		"code": "8057-8061",
+		"title": "Kopie-lijsten van de inwoners van   Banda",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1730"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-065e-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3e-e31f-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.07",
+		"title": "Ternate",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3e-e320-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Ternate. Met bijlagen",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-e31f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1b5b-11bf-e053-09f0900a4541",
+		"code": "8151-8155",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Ternate. Met bijlagen",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1784"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-e31f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1ec4-11bf-e053-09f0900a4541",
+		"code": "8156-8158",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven   van Ternate",
+		"dates": [
+			{
+				"from": "1728",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-e31f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1ea8-11bf-e053-09f0900a4541",
+		"code": "8159-8161",
+		"title": "Kopie-resoluties van de Raad van Politie van   Ternate. Met bijlagen",
+		"dates": [
+			{
+				"from": "1758",
+				"until": "1780"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-e31f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1ebc-11bf-e053-09f0900a4541",
+		"code": "8161, 8164",
+		"title": "Generale monsterrollen van Ternate",
+		"dates": [
+			{
+				"from": "1780",
+				"until": "1789"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3e-e31f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-1ebf-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.08",
+		"title": "Makassar",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1ec0-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Makassar. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1ebf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-495e-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Makassar. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1ebf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-2679-11bf-e053-09f0900a4541",
+		"code": "8264-8268",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven   van Makassar",
+		"dates": [
+			{
+				"from": "1685",
+				"until": "1693"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1ebf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-2683-11bf-e053-09f0900a4541",
+		"code": "8269-8270",
+		"title": "Kopie-bijlagen bij de resoluties van gouverneur en   raad van Makassar",
+		"dates": [
+			{
+				"from": "1757",
+				"until": "1759"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1ebf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-3bbc-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-dagregisters van Makassar",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1ebf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-3baf-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.09",
+		"title": "Banjarmasin",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-3bb0-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Banjarmasin. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-3baf-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-1448-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.10",
+		"title": "Pontianak",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-1449-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Pontianak. Met bijlagen",
+		"dates": [
+			{
+				"from": "1782",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-1448-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-507c-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.11",
+		"title": "Timor",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-507d-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Timor. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-507c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-7efd-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.12",
+		"title": "Palembang",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-7efe-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Palembang. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-7efd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-7390-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Palembang",
+		"dates": [
+			{
+				"from": "1769",
+				"until": "1783"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-7efd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-73a1-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.13",
+		"title": "Jambi",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-73a2-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Jambi. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-73a1-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-5b6d-11bf-e053-09f0900a4541",
+		"code": "8484-8487",
+		"title": "Kopie-dagregisters van Jambi",
+		"dates": [
+			{
+				"from": "1728",
+				"until": "1730"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-73a1-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-5b55-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.14",
+		"title": "Sumatra's Westkust",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-5b56-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Sumatra's Westkust. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-5b55-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-acf0-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-resoluties van de Raad van Politie van   Sumatra's Westkust",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-5b55-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-a000-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Stukken betreffende de goudmijnen van Salida. Met   bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-5b55-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-a019-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.15",
+		"title": "Malakka",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-a01a-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Malakka. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-a019-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d60b-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-secrete missiven en rapporten ingekomen bij   gouverneur-generaal en raden uit Malakka. Met bijlagen",
+		"dates": [
+			{
+				"from": "1769",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-a019-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d61a-11bf-e053-09f0900a4541",
+		"code": "8436-8437, 8670-8676",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven   van Malakka",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-a019-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d9f0-11bf-e053-09f0900a4541",
+		"code": "8677-8679",
+		"title": "Kopie-lijsten van aangekomen en uitgevaren schepen   in Malakka",
+		"dates": [
+			{
+				"from": "1762",
+				"until": "1767"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-a019-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-d9f7-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.16",
+		"title": "Siam",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d9f8-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Siam. Met bijlagen",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1764"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-d9f7-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e245-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.17",
+		"title": "Cochin-China (Tonkin)",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e246-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Cochin-China (Tonkin). Met   bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e245-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e5ca-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.18",
+		"title": "China",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e5cb-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit China. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e5ca-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e5e5-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.19",
+		"title": "Japan",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e5e6-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Japan. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e5e5-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e9c3-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-dagregisters van Japan",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e5e5-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e9d5-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.20",
+		"title": "Bengalen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e9d6-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Bengalen. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e9d5-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-dcc3-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.21",
+		"title": "Coromandel",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-dcc5-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Coromandel. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-dcc3-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-ce79-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.22",
+		"title": "Ceylon",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-ce7a-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur- generaal en raden uit Ceylon. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-ce79-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-ce99-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.23",
+		"title": "Malabar",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-ce9a-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur- generaal en raden uit Malabar. Met bijlagen",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1754"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-ce99-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d981-11bf-e053-09f0900a4541",
+		"code": "9013A-9013B",
+		"title": "1732 feb. 28 - mei 31",
+		"dates": [
+			{
+				"from": "1732-02-28",
+				"until": "1732-05-31"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-ce99-11bf-e053-09f0900a4541",
+			"8b238f3f-ce9a-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d987-11bf-e053-09f0900a4541",
+		"code": "9014A-9014B",
+		"title": "1732 mei 31",
+		"dates": [
+			{
+				"from": "1732-05-31",
+				"until": "1732-05-31"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-ce99-11bf-e053-09f0900a4541",
+			"8b238f3f-ce9a-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-dded-11bf-e053-09f0900a4541",
+		"code": "9015A-9015C",
+		"title": "1733 apr. 18 - mei 8",
+		"dates": [
+			{
+				"from": "1733-04-18",
+				"until": "1733-05-08"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-ce99-11bf-e053-09f0900a4541",
+			"8b238f3f-ce9a-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-d5cd-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.24",
+		"title": "Surat",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-d5ce-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Surat. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-d5cd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-de21-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.25",
+		"title": "Perzië",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-de22-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Perzië. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-de21-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-de41-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.26",
+		"title": "Kareek",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e1e3-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Kareek. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-de41-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e1ef-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.27",
+		"title": "Basra",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e1f0-11bf-e053-09f0900a4541",
+		"code": "8705, 9098",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Basra. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e1ef-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e1f8-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.28",
+		"title": "Maskate",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e1f9-11bf-e053-09f0900a4541",
+		"code": "8723, 9100-9101",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Maskate. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e1f8-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e203-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.29",
+		"title": "Mokka",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e205-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Mokka. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e203-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e594-11bf-e053-09f0900a4541",
+		"code": "9115-9123",
+		"title": "Kopie-dagregisters van Mokka",
+		"dates": [
+			{
+				"from": "1705",
+				"until": "1729"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e203-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-e5a8-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.5.30",
+		"title": "Kaap de Goede Hoop",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-e5a9-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-missiven en -rapporten ingekomen bij   gouverneur-generaal en raden uit Kaap de Goede Hoop. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3e-fe01-11bf-e053-09f0900a4541",
+			"8b238f3f-e5a8-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-f50f-11bf-e053-09f0900a4541",
+		"code": "Deel II/E.6",
+		"title": "Stukken betreffende de boekhouding van de kantoren in  Indië",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-f510-11bf-e053-09f0900a4541",
+		"code": "9180-9189",
+		"title": "Kopie-rapporten van de visitateurs-generaal aan gouverneur-generaal en raden betreffende hun onderzoek in de negotieboeken van de verschillende kantoren in Indië",
+		"dates": [
+			{
+				"from": "1771",
+				"until": "1786"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3e-ec20-11bf-e053-09f0900a4541",
+			"8b238f3f-f50f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f3f-f534-11bf-e053-09f0900a4541",
+		"code": "Deel II/F",
+		"title": "INGEKOMEN STUKKEN VAN DE RAAD VAN JUSTITIE IN BATAVIA   BIJ DE HEREN XVII EN DE KAMER ZEELAND",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-f535-11bf-e053-09f0900a4541",
+		"code": "9192-9220",
+		"title": "Missiven van de Raad van Justitie in Batavia aan de  Heren XVII en de kamer Zeeland",
+		"dates": [
+			{
+				"from": "1711",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-bca4-11bf-e053-09f0900a4541",
+		"code": "9221-9222",
+		"title": "Kopie-missiven van de Raad van Justitie in Batavia aan  de Heren XVII en de kamer Amsterdam. Met bijlagen",
+		"dates": [
+			{
+				"from": "1719",
+				"until": "1734"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-bca5-11bf-e053-09f0900a4541",
+		"code": "9224-9282, 9329-9331",
+		"title": "Kopie-civiele rollen van de Raad van Justitie in  Batavia",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-c06e-11bf-e053-09f0900a4541",
+		"code": "9224, 9273-9331",
+		"title": "Kopie-criminele rollen van de Raad van Justitie in  Batavia",
+		"dates": [
+			{
+				"from": "1636",
+				"until": "1782"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-c425-11bf-e053-09f0900a4541",
+		"code": "9329-9336",
+		"title": "Kopie-criminele sententiën van de Raad van Justitie in  Batavia",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f3f-c427-11bf-e053-09f0900a4541",
+		"code": "9331, 9337-9518",
+		"title": "Kopie-criminele en -civiele processtukken van de Raad  van Justitie in Batavia",
+		"dates": [
+			{
+				"from": "1637",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-02be-11bf-e053-09f0900a4541",
+		"code": "9519-9520",
+		"title": "Registers bevattende uiteenzettingen van criminele  processen waarbij het belang van de VOC is betrokken",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-02c0-11bf-e053-09f0900a4541",
+		"code": "9523-9525",
+		"title": "Stukken betreffende het proces tegen Petrus Vuyst,  oud-gouverneur van Ceylon",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1732"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-02c1-11bf-e053-09f0900a4541",
+		"code": "9526-9527",
+		"title": "Stukken betreffende het proces tegen Adriaan  Valckenier, oud-gouverneur-generaal",
+		"dates": [
+			{
+				"from": "1743",
+				"until": "1748"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-02c2-11bf-e053-09f0900a4541",
+		"code": "9529-9540",
+		"title": "Missiven van commissarissen van de Raad van Justitie  in Batavia, belast met het onderzoek naar de aanwezigheid van particuliere  goederen in de op de rede van Batavia liggende schepen en van commissarissen  belast met de monstering van opvarenden, aan de kamer Zeeland. Met  bijlagen",
+		"dates": [
+			{
+				"from": "1732",
+				"until": "1750"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f3f-f534-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-0f9c-11bf-e053-09f0900a4541",
+		"code": "Deel II/G",
+		"title": "INGEKOMEN STUKKEN VAN DE KANTOREN IN INDIE BIJ DE HEREN   XVII EN DE KAMER ZEELAND",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-0f9f-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.1",
+		"title": "Stukken van de directeur en raden van  Bengalen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-0fa0-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de directeur en raden van Bengalen aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-0616-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-1453-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamer Amsterdam. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1735",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-0296-11bf-e053-09f0900a4541",
+		"code": "9559, 9585",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamer Rotterdam. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1757",
+				"until": "1777"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-387c-11bf-e053-09f0900a4541",
+		"code": "9556, 9559",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamer Delft. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1753",
+				"until": "1757"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-388b-11bf-e053-09f0900a4541",
+		"code": "9553, 9560",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamer Hoorn. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1744",
+				"until": "1757"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-389b-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de directeur en raden van Bengalen aan de kamers Rotterdam, Delft, Hoorn en Enkhuizen te zamen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1766",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3b75-11bf-e053-09f0900a4541",
+		"code": "9617-9622",
+		"title": "Kopie-kasboeken en -grootboeken van de kantoren in Bengalen",
+		"dates": [
+			{
+				"from": "1751",
+				"until": "1779"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3b76-11bf-e053-09f0900a4541",
+		"code": "9623-9624",
+		"title": "Stukken betreffende de beschuldigingen van Damoeder, VOC-makelaar in Hooghly, tegen Jan Kersseboom, directeur van Bengalen. Kopieën",
+		"dates": [
+			{
+				"from": "1756",
+				"until": "1757"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-0f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-3dca-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.2",
+		"title": "Stukken van de gouverneur en raden van  Coromandel",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3dc8-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Coromandel aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1687",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-3dca-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-879b-531e-e053-09f0900a10c6",
+		"code": "9626A-9626B",
+		"title": "1703 november 28 - 1704 december 6,",
+		"dates": [
+			{
+				"from": "17031128",
+				"until": "17041206"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-3dca-11bf-e053-09f0900a4541",
+			"8b238f40-3dc8-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-42fe-11bf-e053-09f0900a4541",
+		"code": "9709-9714",
+		"title": "Stukken betreffende de commissie van commissaris-generaal Hendrik Adriaan van Reede tot Drakenstein",
+		"dates": [
+			{
+				"from": "1686",
+				"until": "1690"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-3dca-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-4302-11bf-e053-09f0900a4541",
+		"code": "9715-9719",
+		"title": "Kopie-resoluties van de gouverneur en raden van Coromandel",
+		"dates": [
+			{
+				"from": "1756",
+				"until": "1786"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-3dca-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-4303-11bf-e053-09f0900a4541",
+		"code": "9721-9731",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven van en aan de gouverneur en raden van Coromandel en de ondergeschikte kantoren",
+		"dates": [
+			{
+				"from": "1687",
+				"until": "1730"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-3dca-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-4306-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.3",
+		"title": "Stukken van de gouverneur en raden van  Ceylon",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-4307-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1681",
+				"until": "1793"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-2134-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-2e44-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Amsterdam. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1685",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3303-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Delft. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1685",
+				"until": "1763"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3855-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Rotterdam. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1722",
+				"until": "1763"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-3b44-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Hoorn. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1688",
+				"until": "1763"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-4056-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamer Enkhuizen. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1688",
+				"until": "1763"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-42ee-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Ceylon aan de kamers Amsterdam, Rotterdam, Delft, Hoorn en Enkhuizen te zamen. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1750",
+				"until": "1793"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-589f-11bf-e053-09f0900a4541",
+		"code": "10049-10051",
+		"title": "Missiven van Gustaaf Willem van Imhoff, gouverneur van Ceylon, aan de Heren XVII. Met bijlagen",
+		"dates": [
+			{
+				"from": "1736",
+				"until": "1738"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-58a0-11bf-e053-09f0900a4541",
+		"code": "10046, 10053-10068",
+		"title": "Kopie-resoluties van de gouverneur en raden van Ceylon",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-58a1-11bf-e053-09f0900a4541",
+		"code": "10069-10078",
+		"title": "Duplikaat- en kopie-missiven van de gouverneur en raden van Ceylon aan gouverneur-generaal en raden. Met bijlagen",
+		"dates": [
+			{
+				"from": "1707",
+				"until": "1783"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-5af7-11bf-e053-09f0900a4541",
+		"code": "10070, 10079-10080",
+		"title": "Kopieboeken van ingekomen en uitgaande missiven van en aan de gouverneur en raden van Ceylon",
+		"dates": [
+			{
+				"from": "1687",
+				"until": "1722"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-5afa-11bf-e053-09f0900a4541",
+		"code": "10081-10083",
+		"title": "Stukken van Jacob Christiaan Pielat, commissaris over Ceylon. Kopieën",
+		"dates": [
+			{
+				"from": "1732",
+				"until": "1734"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-5afb-11bf-e053-09f0900a4541",
+		"code": "10084-10086",
+		"title": "Kopie- en extract-dagregisters van Ceylon",
+		"dates": [
+			{
+				"from": "1688",
+				"until": "1757"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d3-11bf-e053-09f0900a4541",
+		"code": "10087-10105",
+		"title": "Kopie-dagregisters van gouverneurs van Ceylon en anderen van inspectiereizen door het gouvernement",
+		"dates": [
+			{
+				"from": "1698",
+				"until": "1760"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d5-11bf-e053-09f0900a4541",
+		"code": "10106-10108",
+		"title": "Kopie-dagregisters van de reizen van VOC-dienaren naar het hof van Kandy, opgemaakt voor gouverneur Gustaaf Willem van Imhoff",
+		"dates": [
+			{
+				"from": "1738",
+				"until": "1746"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d6-11bf-e053-09f0900a4541",
+		"code": "10109-10110",
+		"title": "Dagregisters van de gecommitteerden van de parelvisserij. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d7-11bf-e053-09f0900a4541",
+		"code": "10113-10115",
+		"title": "Stukken betreffende het proces tegen officieren van het regiment van Luxemburg. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1784",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d8-11bf-e053-09f0900a4541",
+		"code": "10116-10122",
+		"title": "Stukken betreffende het proces tegen Petrus Vuyst, oud-gouverneur van Ceylon. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1732"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-876c-531e-e053-09f0900a10c6",
+		"code": "10119A-10119C",
+		"title": "Stukken betreffende de zaak Vuyst, 1729 augustus - 1730 januari",
+		"dates": [
+			{
+				"from": "1729-08",
+				"until": "1730-01"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541",
+			"8b238f40-45d8-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8773-531e-e053-09f0900a10c6",
+		"code": "10121A-10121B",
+		"title": "Stukken betreffende de door Vuyst ontdekte samenzwering, die door Joan de Mauregnault, fiscaal van Colombo, zijn overhandigd aan de gouverneur van Ceylon, 1729-1732",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1732"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541",
+			"8b238f40-45d8-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45d9-11bf-e053-09f0900a4541",
+		"code": "10123-10140",
+		"title": "Stukken betreffende rechtszaken",
+		"dates": [
+			{
+				"from": "1712",
+				"until": "1740"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8770-531e-e053-09f0900a10c6",
+		"code": "10129A-10129B",
+		"title": "Stukken ten laste van Joan de Mauregnault, oud-fiscaal van Colombo, 1732-1733",
+		"dates": [
+			{
+				"from": "1732",
+				"until": "1733"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541",
+			"8b238f40-45d9-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8779-531e-e053-09f0900a10c6",
+		"code": "10130A-10130B",
+		"title": "Missiven van Joan de Mauregnault, oud-fiscaal van Colombo, aan de Heren XVII en de kamer Zeeland ten behoeve van zijn verdediging, met bijlagen., 1734",
+		"dates": [
+			{
+				"from": "1734",
+				"until": "1734"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541",
+			"8b238f40-45d9-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-45da-11bf-e053-09f0900a4541",
+		"code": "10141-10147",
+		"title": "Kopie-akten van de krijgsraden in Colombo",
+		"dates": [
+			{
+				"from": "1729",
+				"until": "1729"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-480b-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Stukken van de kerkeraad van Ceylon",
+		"dates": [
+			{
+				"from": "1706",
+				"until": "1776"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-480c-11bf-e053-09f0900a4541",
+		"code": "10148-10149",
+		"title": "Kopie-lijsten van landerijen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-480d-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de commandeur en raden van Galle aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-9f9c-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de commandeur en raden van Galle aan de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën.",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-4306-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-9f9f-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.4",
+		"title": "Stukken van de commandeur (directeur) en raden van  Malabar",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-9fa0-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de commandeur en raden van Malabar aan de Heren XVII en de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-9f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-a8b6-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-resoluties van de commandeur en raden van Malabar",
+		"dates": [
+			{
+				"from": "1756",
+				"until": "1791"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-9f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-a8b8-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-dagregisters van Malabar",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-9f9f-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-abf4-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.5",
+		"title": "Stukken van de directeur (gouverneur) en raden van  Surat",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-abf5-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de directeur en raden van Surat aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1687",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-abf4-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-af65-11bf-e053-09f0900a4541",
+		"code": "10419, 10426-10431",
+		"title": "Kopie-resoluties van de directeur en raden van Surat. Met bijlagen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-abf4-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-af67-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.6",
+		"title": "Stukken van de directeur en raden van  Perzië",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-af69-11bf-e053-09f0900a4541",
+		"code": "Deel II/G.7",
+		"title": "Stukken van de gouverneur en raden van Kaap de Goede  Hoop",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-af6a-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Kaap de Goede Hoop aan de Heren XVII. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1683",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-9685-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Kaap de Goede Hoop aan de kamer Zeeland. Met bijlagen. Gedeeltelijk kopieën",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-a8c2-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Kaap de Goede Hoop aan de kamers Amsterdam en Zeeland. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1751",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-a8c5-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Missiven van de gouverneur en raden van Kaap de Goede Hoop aan de kamer Amsterdam. Gedeeltelijk kopieën",
+		"dates": [
+			{
+				"from": "1775",
+				"until": "1788"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-abff-11bf-e053-09f0900a4541",
+		"code": "10707-10713",
+		"title": "Kopie-resoluties van de gouverneur en raden van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1757",
+				"until": "1787"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-abfd-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-dagregisters van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1687",
+				"until": "1789"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b2d9-11bf-e053-09f0900a4541",
+		"code": "10809-10810",
+		"title": "Kopie-dagregisters van Rio Delagoa",
+		"dates": [
+			{
+				"from": "1724",
+				"until": "1729"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b2d5-11bf-e053-09f0900a4541",
+		"code": "10811-10815",
+		"title": "Kopie-dagregister van expedities van Kaap de Goede Hoop naar Madagaskar voor de slavenhandel",
+		"dates": [
+			{
+				"from": "1696",
+				"until": "1753"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b2d7-11bf-e053-09f0900a4541",
+		"code": "10816-10817",
+		"title": "Kopie-dagregisters van expedities in zuidelijk Afrika",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b2d8-11bf-e053-09f0900a4541",
+		"code": "10818-10906",
+		"title": "Kopieboek van uitgaande missiven van de gouverneur en raden van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1686",
+				"until": "1789"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b681-11bf-e053-09f0900a4541",
+		"code": "10907-10916",
+		"title": "Kopie-civiele en -criminele rollen van de Raad van Justitie van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1705",
+				"until": "1714"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-b9d6-11bf-e053-09f0900a4541",
+		"code": "10474, 10917-10991",
+		"title": "Kopie-criminele rollen van de Raad van Justitie van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1716",
+				"until": "1792"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-bf9b-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-criminele processtukken van de Raad van Justitie van Kaap de Goede Hoop",
+		"dates": [
+			{
+				"from": "1692",
+				"until": "1791"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8776-531e-e053-09f0900a10c6",
+		"code": "11008A-11008B",
+		"title": "1731,",
+		"dates": [
+			{
+				"from": "1731",
+				"until": "1731"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541",
+			"8b238f40-bf9b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "76ad8666-8784-531e-e053-09f0900a10c6",
+		"code": "11013A-11013B",
+		"title": "1738,",
+		"dates": [
+			{
+				"from": "1738",
+				"until": "1738"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-0f9c-11bf-e053-09f0900a4541",
+			"8b238f40-af69-11bf-e053-09f0900a4541",
+			"8b238f40-bf9b-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-a8da-11bf-e053-09f0900a4541",
+		"code": "Deel II/K",
+		"title": "STUKKEN AFKOMSTIG VAN DEPARTEMENTEN EN   KANTOREN",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-abd1-11bf-e053-09f0900a4541",
+		"code": "Deel II/K.2",
+		"title": "Soldijkantoor",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f40-abd6-11bf-e053-09f0900a4541",
+		"code": "Deel II/K.2.c",
+		"title": "Land- en zeemonsterrollen, betaalsrollen en scheepssoldijboeken",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541",
+			"8b238f40-abd1-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f40-9c69-11bf-e053-09f0900a4541",
+		"code": "div.nrs.",
+		"title": "Kopie-rollen van gekwalificeerde militaire   VOC-dienaren in de vestigingen in Indië",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541",
+			"8b238f40-abd1-11bf-e053-09f0900a4541",
+			"8b238f40-abd6-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f43-e4b3-11bf-e053-09f0900a4541",
+		"code": "Deel II/K.3",
+		"title": "Departement van de koopmanschappen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "subseries",
+		"uuid": "8b238f43-f17e-11bf-e053-09f0900a4541",
+		"code": "Deel II/K.3.i",
+		"title": "Eisen",
+		"dates": [],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541",
+			"8b238f43-e4b3-11bf-e053-09f0900a4541"
+		]
+	},
+	{
+		"type": "otherlevel",
+		"uuid": "8b238f43-ddc7-11bf-e053-09f0900a4541",
+		"code": "9634, 13509-13571",
+		"title": "Kopie-eisen van de factorijen aan   gouverneur-generaal en raden in Batavia, met aantekeningen van   gouverneur-generaal en raden",
+		"dates": [
+			{
+				"from": "1669",
+				"until": "1790"
+			}
+		],
+		"parents": [
+			"8b238f3e-c8cd-11bf-e053-09f0900a4541",
+			"8b238f40-a8da-11bf-e053-09f0900a4541",
+			"8b238f43-e4b3-11bf-e053-09f0900a4541",
+			"8b238f43-f17e-11bf-e053-09f0900a4541"
+		]
+	}
+]

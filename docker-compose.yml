@@ -1,0 +1,65 @@
+services:
+
+  mongo:
+    container_name: panoptes-mongo
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    expose:
+      - "27017"
+    restart: unless-stopped
+    volumes:
+      - mongo-data:/data/db
+      - ./seed/mongo:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: [ "CMD-SHELL", "mongosh --quiet --eval 'db.adminCommand({ ping: 1 })' > /dev/null" ]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+    networks:
+      - search-sandbox
+
+  elastic:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.2
+    container_name: panoptes-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - '9200:9200'
+      - '9300:9300'
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -fsS http://localhost:9200 >/dev/null" ]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+    volumes:
+      - es-data:/usr/share/elasticsearch/data
+    networks:
+      - search-sandbox
+
+  panoptes:
+    container_name: panoptes-api
+    image: registry.diginfra.net/tsd/panoptes-backend:beta-60
+    platform: linux/amd64
+    environment:
+      - ES_SCHEME=http
+      - ES_HOST=elastic
+      - ES_PORT=9200
+      - MONGO_CONNECTION=mongodb://mongo:27017/
+    depends_on:
+      mongo:
+        condition: service_healthy
+      elastic:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    networks:
+      - search-sandbox
+
+volumes:
+  es-data:
+  mongo-data:
+
+networks:
+  search-sandbox:
