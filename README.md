@@ -32,6 +32,12 @@ This has some duplications at the moment, as there are multiple documents refere
 
 Clone the front-end repository from https://github.com/knaw-huc/panoptes-react
 
+Checkout the repository with the histogram facet:
+
+```bash
+git checkout feature/histogram-facet
+```
+
 In the repository run:
 
 ```bash
