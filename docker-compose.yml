@@ -40,7 +40,7 @@ services:
 
   panoptes:
     container_name: panoptes-api
-    image: ghcr.io/knaw-huc/panoptes:v0.0.5
+    image: ghcr.io/knaw-huc/panoptes:v0.0.6
     platform: linux/amd64
     environment:
       - ES_SCHEME=http
